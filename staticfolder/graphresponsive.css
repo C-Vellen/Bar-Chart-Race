@@ -1,0 +1,94 @@
+/* css responsive */
+
+
+@media screen and (max-width:700px) {
+    #upperheader {
+        padding: 4px 10px 4px 9px;
+    }
+
+    #darkmode,
+    #langtoggle {
+        width: 40px;
+        height: 16px;
+        border-radius: 9px;
+    }
+
+
+    #topselect {
+        border-radius: 16px;
+    }
+
+    #topselect #descnumber span {
+        font-size: 1.0em;
+    }
+
+    #topselect #topnumber {
+        font-size: 1.2em;
+    }
+
+    #topselect .arrow {
+        width: 0;
+        height: 0;
+        border-left: 8px solid transparent;
+        border-right: 8px solid transparent;
+        transition: 0.3s;
+        margin: 0px 1.6px 4px;
+    }
+
+    #topselect #incarrow {
+        border-bottom: 11px solid #000;
+    }
+
+    #topselect #decarrow {
+        border-top: 11px solid #000;
+    }
+
+    #topselect #incarrow:hover {
+        border-bottom: 11px solid #f00;
+    }
+
+    #topselect #decarrow:hover {
+        border-top: 11px solid #f00;
+    }
+
+    /* =============  HEADER TITRE =================*/
+    #titleheader {
+        padding: 5px 10px 0px 10px;
+    }
+
+    /* ============== DROPDOWN ==================== */
+    #titledropdown {
+        font-size: 12px;
+    }
+
+    .select {}
+
+    .caret {
+        border-left: 8px solid transparent;
+        border-right: 8px solid transparent;
+        border-top: 11px solid #fff;
+    }
+
+    #yeardisplay span {
+        font-size: 32px;
+    }
+
+    /* ============== FOOTER =========================*/
+
+    .footer {
+        font-size: 10px;
+        margin: 0px 10px 15px 9px;
+    }
+
+    .footer p,
+    .footer ul {
+        margin: 0;
+    }
+
+    .footer ul {
+        list-style-type: "-";
+        padding-left: 10px;
+    }
+
+
+}

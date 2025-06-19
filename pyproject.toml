@@ -1,0 +1,22 @@
+[project]
+name = "bar-chart-race"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Christophe Vellen",email = "christophe.vellen@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pandas (>=2.3.0,<3.0.0)",
+    "matplotlib (>=3.10.3,<4.0.0)",
+    "seaborn (>=0.13.2,<0.14.0)",
+    "ipython (>=9.3.0,<10.0.0)",
+    "pycountry-convert (>=0.7.2,<0.8.0)",
+    "numpy (>=2.3.0,<3.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
