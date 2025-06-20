@@ -25,8 +25,7 @@
 
 <li>Mettre à jour les données :
 <ul>
-    <li>Télécharger les données : [ici](
-   https://nyc3.digitaloceanspaces.com/owid-public/data/co2/owid-co2-data.csv) et les enregistrer dans le dossier <strong>dataset_brut/</strong>
+    <li>Télécharger les données : <a href="https://nyc3.digitaloceanspaces.com/owid-public/data/co2/owid-co2-data.csv">ici</a> et les enregistrer dans le dossier <strong>dataset_brut/</strong>
     </li>
     <li>
         Autres données :
