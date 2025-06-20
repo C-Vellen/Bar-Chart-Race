@@ -30,8 +30,8 @@
     <li>
         Autres données :
         <ul>
-        <li>Carte du monde : <strong>staticfolder/world_map.js</strong></li>
-        <li>Catalogue des drapeaux des pays en format svg : <strong>dataset_brut/world_countries.csv</strong></li>
+        <li>Carte du monde : <strong><a href="staticfolder/world_map.js">worldmap.js</a></strong></li>
+        <li>Catalogue des drapeaux des pays en format svg : <strong><a href="dataset_brut/world_countries.csv">world_countries.svg</a></strong></li>
         </ul>
     </li>
    
